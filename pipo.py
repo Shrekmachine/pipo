@@ -8,7 +8,7 @@ import random
 import json
 
 def check_if_running():
-    # Wir prüfen NUR, wenn das Programm als EXE läuft...
+    # Wir prüfen NUR, wenn das Programm als EXE läuft.
     # (getattr(sys, 'frozen', False) prüft, ob es eine PyInstaller EXE ist)
     if not getattr(sys, 'frozen', False):
         return False
