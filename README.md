@@ -1,5 +1,7 @@
 # Pipo - Python Pip Manager Pro
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Pipo is a desktop GUI tool for managing Python packages with `pip`.
 It gives you a simple visual workflow to install, uninstall, inspect, and update packages without using terminal commands manually.
 
@@ -52,4 +54,4 @@ It can mark packages with available updates and helps you upgrade them in a guid
 
 ## License
 
-Add your preferred license (for example, MIT) in a `LICENSE` file.
+This project is licensed under the MIT License. See `LICENSE` for details.
